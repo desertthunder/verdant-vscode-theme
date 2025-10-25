@@ -1,7 +1,7 @@
 {
     "name": "verdant-theme",
     "displayName": "verdant-theme",
-    "description": "Green & gold color theme for VSCode",
+    "description": "Minty green color theme for VSCode",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.105.0"
