@@ -6,6 +6,10 @@
     "engines": {
         "vscode": "^1.105.0"
     },
+    "publisher": "DesertThunder",
+    "repository": {
+        "url": "https://github.com/desertthunder/verdant-vscode-theme.git"
+    },
     "categories": [
         "Themes"
     ],
