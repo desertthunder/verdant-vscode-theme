@@ -1,0 +1,26 @@
+{
+    "name": "verdant-theme",
+    "displayName": "verdant-theme",
+    "description": "Green & gold color theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.105.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Verdant Dusk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/verdant-dusk-color-theme.json"
+            },
+            {
+                "label": "Verdant Dawn",
+                "uiTheme": "vs",
+                "path": "./themes/verdant-dawn-color-theme.json"
+            }
+        ]
+    }
+}
