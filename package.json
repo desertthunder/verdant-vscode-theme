@@ -1,11 +1,12 @@
 {
     "name": "verdant-theme",
-    "displayName": "verdant-theme",
+    "displayName": "Verdant Theme",
     "description": "Minty green color theme for VSCode",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.105.0"
     },
+    "icon": "images/icon.png",
     "publisher": "DesertThunder",
     "repository": {
         "url": "https://github.com/desertthunder/verdant-vscode-theme.git"
